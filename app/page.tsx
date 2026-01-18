@@ -1,5 +1,5 @@
-import { HeroSection } from '../components/hero/HeroSection';
-import { ASOGrid } from '../components/cards/ASOGrid';
+import { HeroSection } from '@/components/hero/HeroSection';
+import { ASOGrid } from '@/components/cards/ASOGrid';
 
 export default function Home() {
   return (
