@@ -1,0 +1,5 @@
+{
+  "public": ["listings", "maps", "tours"],
+  "user": ["saved-homes", "visits"],
+  "dashboard": ["builders", "owners"]
+}
